@@ -26,3 +26,9 @@ Logging: Implement logging to track application events and facilitate debugging 
 API Documentation: Document the REST API endpoints using tools like Swagger for better understanding and testing.
 UI: Develop a simple frontend interface to interact with the warehouse management system.
 Concurrency Handling: Implement concurrency control mechanisms to handle simultaneous access and updates to the stock.
+
+Steps to run:
+Step 1: Install JDK
+Step 2: Clone this repository to the local machine
+Step 3: Import the project to IDE and run the application
+
